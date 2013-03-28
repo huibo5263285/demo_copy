@@ -4,6 +4,7 @@
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <title>复制页面-播放页</title>
+    <script type="text/javascript" src="js/sub.js"></script>
     <style type="text/css">
         .txt12 {
             font-family: "宋体";

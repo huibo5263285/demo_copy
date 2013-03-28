@@ -6,6 +6,7 @@
     <title>复制页面-首页</title>
       <link type="text/css" rel="stylesheet" href="css/video.css">
       <link type="text/css" rel="stylesheet" href="css/base.css">
+      <script type="text/javascript" src="js/index.js"></script>
   </head>
   <body>
   <div id="sp_content1">
