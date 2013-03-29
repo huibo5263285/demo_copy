@@ -10,6 +10,7 @@
         //初始化
         init: function () {
             fn.add('data/index.csv');//载入默认数据
+            fn.add_1('data/index_1.csv');//载入默认数据
             fn.add2('data/index_r.csv');//载入右边默认图片
             fn.add3('data/index_r_l.csv');//载入右边列表
             fn.addEvent();
@@ -21,7 +22,12 @@
                 return false;
             });
             fn.e.l_wrap2.on('click', 'a', function () {
-                fn.add(this.toString());
+                fn.add_1(this.toString());
+                return false;
+            });
+
+            fn.e.list_pic.on('click' , 'a' , function(){
+                window.location.href = 'sub.jsp';
                 return false;
             });
         },
@@ -30,9 +36,15 @@
         add: function (csv) {
             $.csv(csv, function (result) {
                 var list_pic = fn.e.list_pic.empty();
+                fn.__addHtml(result, 4, 5, list_pic); //新闻播报
+            });
+        },
+
+        //新闻播报，娱乐天地
+        add_1: function (csv) {
+            $.csv(csv, function (result) {
                 var list_pic2 = fn.e.list_pic2.empty();
-                fn.__addHtml(result, 3, 5, list_pic); //新闻播报
-                fn.__addHtml(result, 2, 5, list_pic2); //娱乐天地
+                fn.__addHtml(result, 4, 5, list_pic2); //娱乐天地
             });
         },
 

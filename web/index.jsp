@@ -16,9 +16,6 @@
         <div class="col_main">
             <div class="col_left">
                 <div class="sp_title">
-                    <div class="sp_title_l"><a target="_blank" href="http://www.xinhuanet.com/video/xw.htm"><img
-                            width="130" height="41" border="0"
-                            src="http://imgs.xinhuanet.com/icon/video/201006/lm_xinwen.gif"></a></div>
                     <div class="sp_title_c" id="l_wrap1">
                         <h2><a target="_blank" href="data/index.csv">聚焦</a> | <a target="_blank" href="data/index2.csv">时政</a>
                             | <a target="_blank" href="data/index3.csv">国际</a> | <a target="_blank"
@@ -32,21 +29,15 @@
 
                 </div>
             </div>
-            <div class="sp_bottom"><img width="690" height="13" border="0"
-                                        src="http://imgs.xinhuanet.com/icon/video/lm_022012.gif"></div>
+            <div class="sp_bottom"><img width="690" height="13" border="0"  src="http://imgs.xinhuanet.com/icon/video/lm_022012.gif"></div>
             <div class="blank10"></div>
             <div class="col_left">
                 <div class="sp_title">
-                    <div class="sp_title_l"><a target="_blank" href="http://www.xinhuanet.com/video/yl.htm"><img
-                            width="130" height="41" border="0"
-                            src="http://imgs.xinhuanet.com/icon/video/201006/lm_yule.gif"></a><a target="_blank"
-                                                                                                 href="http://www.xinhuanet.com/video/xw.htm"></a>
-                    </div>
                     <div class="sp_title_c" id="l_wrap2">
-                        <h2><a target="_blank" href="data/index.csv">娱乐资讯</a> | <a target="_blank"
-                                                                                   href="data/index2.csv">影视资讯</a> | <a
-                                target="_blank" href="data/index3.csv">明星</a> | <a target="_blank"
-                                                                                   href="data/index4.csv">综艺节目</a></h2>
+                        <h2><a target="_blank" href="data/index_1.csv">财经纵横</a> | <a target="_blank"
+                                                                                   href="data/index2_1.csv">体坛风云</a> | <a
+                                target="_blank" href="data/index3_1.csv">法制在线</a> | <a target="_blank"
+                                                                                   href="data/index4_1.csv">军事观察</a></h2>
                     </div>
                 </div>
                 <div class="clear"></div>
