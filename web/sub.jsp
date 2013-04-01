@@ -667,110 +667,19 @@ a:hover {
                             <table width="659" height="358" cellspacing="0" cellpadding="0" border="0" class="table_border">
                                 <tbody><tr>
                                     <td valign="top" align="center">
-                                        <table width="100%" height="26" cellspacing="0" cellpadding="0" border="0" bgcolor="#719AD9" class="gdsp">
+                                        <table width="100%" height="26" cellspacing="0" cellpadding="0" border="0" bgcolor="#719AD9" class="gdsp" style="margin-bottom: 5px;">
                                             <tbody><tr>
                                                 <td width="12%" align="right">近期热播</td>
                                                 <td width="84%" align="right"><a target="_blank" href="http://www.xinhuanet.com/video">&gt;&gt; 观看更多视频</a></td>
                                                 <td width="4%">&nbsp;</td>
                                             </tr>
-                                            </tbody></table>
-                                        <table width="100%" height="5" cellspacing="0" cellpadding="0" border="0">
-                                            <tbody><tr>
-                                                <td></td>
-                                            </tr>
-                                            </tbody></table>
+                                            </tbody>
+                                        </table>
+
                                         <table width="612" height="298" cellspacing="2" cellpadding="0" border="0">
-                                            <tbody><tr valign="top" align="center">
-                                                <td>
-                                                    <table width="150" height="145" cellspacing="0" cellpadding="4" border="0" class="jqrb">
-                                                        <tbody><tr>
-                                                            <td width="150" valign="top" bgcolor="#DEDEDE" align="center"><a target="_blank" href="http://news.xinhuanet.com/video/2013-03/29/c_124520534.htm"><img width="100" vspace="6" height="75" alt="日90后女星沙滩写真 童颜巨乳清纯诱惑" class="img_border" src="titlepic/124520534_title0h.jpg"></a></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td valign="top" bgcolor="#F2F2F2" align="center"><a target="_blank" href="http://news.xinhuanet.com/video/2013-03/29/c_124520534.htm">日90后女星沙滩写真 童颜巨乳清纯诱惑</a></td>
-                                                        </tr>
-                                                        </tbody></table>
-                                                </td>
-                                                <td>
-                                                    <table width="150" height="145" cellspacing="0" cellpadding="4" border="0" class="jqrb">
-                                                        <tbody><tr>
-                                                            <td width="150" valign="top" bgcolor="#DEDEDE" align="center"><a target="_blank" href="http://news.xinhuanet.com/video/2013-03/29/c_124520015.htm"><img width="100" vspace="6" height="75" alt="爆乳女模倒奶塞进洗衣机 俯身露巨乳" class="img_border" src="titlepic/124520015_title0h.jpg"></a></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td valign="top" bgcolor="#F2F2F2" align="center"><a target="_blank" href="http://news.xinhuanet.com/video/2013-03/29/c_124520015.htm">爆乳女模倒奶塞进洗衣机 俯身露巨乳</a></td>
-                                                        </tr>
-                                                        </tbody></table>
-                                                </td>
-                                                <td>
-                                                    <table width="150" height="145" cellspacing="0" cellpadding="4" border="0" class="jqrb">
-                                                        <tbody><tr>
-                                                            <td width="150" valign="top" bgcolor="#DEDEDE" align="center"><a target="_blank" href="http://news.xinhuanet.com/video/2013-03/29/c_124519661.htm"><img width="100" vspace="6" height="75" alt="美国音乐节疯狂女粉丝撩衣露胸" class="img_border" src="titlepic/124519661_title0h.jpg"></a></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td valign="top" bgcolor="#F2F2F2" align="center"><a target="_blank" href="http://news.xinhuanet.com/video/2013-03/29/c_124519661.htm">美国音乐节疯狂女粉丝撩衣露胸</a></td>
-                                                        </tr>
-                                                        </tbody></table>
-                                                </td>
-                                                <td>
-                                                    <table width="150" height="145" cellspacing="0" cellpadding="4" border="0" class="jqrb">
-                                                        <tbody><tr>
-                                                            <td width="150" valign="top" bgcolor="#DEDEDE" align="center"><a target="_blank" href="http://news.xinhuanet.com/video/2013-03/29/c_124519209.htm"><img width="100" vspace="6" height="75" alt="谢娜拉低眼皮变容嬷嬷 何炅反串小燕子" class="img_border" src="titlepic/124519209_title0h.jpg"></a></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td valign="top" bgcolor="#F2F2F2" align="center"><a target="_blank" href="http://news.xinhuanet.com/video/2013-03/29/c_124519209.htm">谢娜拉低眼皮变容嬷嬷 何炅反串小燕子</a></td>
-                                                        </tr>
-                                                        </tbody></table>
-                                                </td>
-                                            </tr>
-                                            <tr valign="top" align="center">
-                                                <td>
-                                                    <table width="150" height="145" cellspacing="0" cellpadding="4" border="0" class="jqrb">
-                                                        <tbody><tr>
-                                                            <td width="150" valign="top" bgcolor="#DEDEDE" align="center"><a target="_blank" href="http://news.xinhuanet.com/video/2013-03/29/c_124516399.htm"><img width="100" vspace="6" height="75" alt="李咏怒斥流言：我是要名要利的人吗" class="img_border" src="titlepic/124516399_title0h.jpg"></a></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td valign="top" bgcolor="#F2F2F2" align="center"><a target="_blank" href="http://news.xinhuanet.com/video/2013-03/29/c_124516399.htm">李咏怒斥流言：我是要名要利的人吗</a></td>
-                                                        </tr>
-                                                        </tbody></table>
-                                                </td>
-                                                <td>
-                                                    <table width="150" height="145" cellspacing="0" cellpadding="4" border="0" class="jqrb">
-                                                        <tbody><tr>
-                                                            <td width="150" valign="top" bgcolor="#DEDEDE" align="center"><a target="_blank" href="http://news.xinhuanet.com/video/2013-03/29/c_124516381.htm"><img width="100" vspace="6" height="75" alt="周立波再挑徐峥 称《泰囧》剽窃达人秀" class="img_border" src="titlepic/124516381_title0h.jpg"></a></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td valign="top" bgcolor="#F2F2F2" align="center"><a target="_blank" href="http://news.xinhuanet.com/video/2013-03/29/c_124516381.htm">周立波再挑徐峥 称《泰囧》剽窃达人秀</a></td>
-                                                        </tr>
-                                                        </tbody></table>
-                                                </td>
-                                                <td>
-                                                    <table width="150" height="145" cellspacing="0" cellpadding="4" border="0" class="jqrb">
-                                                        <tbody><tr>
-                                                            <td width="150" valign="top" bgcolor="#DEDEDE" align="center"><a target="_blank" href="http://news.xinhuanet.com/video/2013-03/28/c_124514083.htm"><img width="100" vspace="6" height="75" alt="蔡少芬再添一女 网友：生女不用买房" class="img_border" src="titlepic/124514083_title0h.jpg"></a></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td valign="top" bgcolor="#F2F2F2" align="center"><a target="_blank" href="http://news.xinhuanet.com/video/2013-03/28/c_124514083.htm">蔡少芬再添一女 网友：生女不用买房</a></td>
-                                                        </tr>
-                                                        </tbody></table>
-                                                </td>
-                                                <td>
-                                                    <table width="150" height="145" cellspacing="0" cellpadding="4" border="0" class="jqrb">
-                                                        <tbody><tr>
-                                                            <td width="150" valign="top" bgcolor="#DEDEDE" align="center"><a target="_blank" href="http://news.xinhuanet.com/video/2013-03/28/c_124514087.htm"><img width="100" vspace="6" height="75" alt="曝&quot;上位&quot;大尺度激情戏 揭娱乐圈潜规则" class="img_border" src="titlepic/124514087_title0h.jpg"></a></td>
-                                                        </tr>
-                                                        <tr>
-                                                            <td valign="top" bgcolor="#F2F2F2" align="center"><a target="_blank" href="http://news.xinhuanet.com/video/2013-03/28/c_124514087.htm">曝"上位"大尺度激情戏 揭娱乐圈潜规则</a></td>
-                                                        </tr>
-                                                        </tbody></table>
-                                                </td>
-                                            </tr>
-                                            <tr valign="top" align="center">
-                                                <td height="7" bgcolor="#DEDEDE"></td>
-                                                <td bgcolor="#DEDEDE"></td>
-                                                <td bgcolor="#DEDEDE"></td>
-                                                <td bgcolor="#DEDEDE"></td>
-                                            </tr>
-                                            </tbody></table>
+                                            <tbody id="wrap4">
+                                            </tbody>
+                                        </table>
                                     </td>
                                 </tr>
                                 </tbody></table>

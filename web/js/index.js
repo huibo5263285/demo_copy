@@ -26,10 +26,6 @@
                 return false;
             });
 
-            fn.e.list_pic.on('click' , 'a' , function(){
-                window.location.href = 'sub.jsp';
-                return false;
-            });
         },
 
         //新闻播报，娱乐天地
@@ -77,8 +73,8 @@
                     var p_img = $('<p class="img"/>').appendTo(li);
                     var p_name = $('<p class="name_p"/>').appendTo(li);
 
-                    $('<a href="javascript:" target="_blank"/>').appendTo(p_name).html(o[0]);
-                    var a_img = $('<a href="javascript:" target="_blank"/>').appendTo(p_img);
+                    $('<a href="sub.jsp?id=' + o[2] + '" target="_blank"/>').appendTo(p_name).html(o[0]);
+                    var a_img = $('<a href="sub.jsp?id=' + o[2] + '" target="_blank"/>').appendTo(p_img);
                     var img = $('<img width="100" height="75" border="0"/>').appendTo(a_img);
                     img.attr({alt: o[0], src: o[1]});
                 }
@@ -92,7 +88,7 @@
             for (var i = 0; i < l; i++) {
                 var o = list.shift();
                 var li = $('<li>').appendTo(ul);
-                $('<a href="javascript:" target="_blank"/>').appendTo(li).html(o[0]);
+                $('<a href="sub.jsp?id=' + o[2] + '" target="_blank"/>').appendTo(li).html(o[0]);
             }
             ul.appendTo(wrap);
         },
