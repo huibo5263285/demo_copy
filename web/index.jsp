@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-    <title>复制页面-首页</title>
+    <title>列表页面</title>
     <link type="text/css" rel="stylesheet" href="css/video.css">
     <link type="text/css" rel="stylesheet" href="css/base.css">
     <script type="text/javascript" src="js/jquery.min.js"></script>
@@ -18,9 +18,7 @@
                 <div class="sp_title">
                     <div class="sp_title_c" id="l_wrap1">
                         <h2><a target="_blank" href="data/index.csv">聚焦</a> | <a target="_blank" href="data/index2.csv">时政</a>
-                            | <a target="_blank" href="data/index3.csv">国际</a> | <a target="_blank"
-                                                                                    href="data/index4.csv">社会</a> | <a
-                                    target="_blank" href="data/index5.csv">深度</a></h2>
+                            | <a target="_blank" href="data/index3.csv">国际</a> | <a target="_blank" href="data/index4.csv">社会</a></h2>
                     </div>
                 </div>
                 <div class="clear"></div>

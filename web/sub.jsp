@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-<title>复制页面-播放页</title>
+<title>视频详情</title>
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/jquery.util.js"></script>
 <script type="text/javascript" src="js/FlashPlayer/Player.js"></script>
